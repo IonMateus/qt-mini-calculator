@@ -1,0 +1,1 @@
+# qt-mini-calculator
